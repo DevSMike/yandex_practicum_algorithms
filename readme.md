@@ -9,3 +9,4 @@
 * Спринт 6: [Графы 9/12](https://contest.yandex.ru/contest/25069/problems/)
 * Спринт 7: [Динамическое программирование 13/15](https://contest.yandex.ru/contest/25596/problems/)
 * Спринт 8: [Алгоритмы на строках 9/12](https://contest.yandex.ru/contest/26131/problems/)
+* [Доп задачи с собеса 0/20](https://contest.yandex.ru/contest/26131/problems/)
